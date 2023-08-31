@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=alamin2731&style=flat&color=blue)
 
-<h1 align="center">Hi!,  I'm Alamin <img src=
+<h1 align="center">Hola!,  Yo soy Jorge <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Ingeniero+en+ TICs;Freelancer;Programador+Web;Desarrollador+Web;Ethical+Hacker;Cientifico+de+Datos)](https://git.io/typing-svg)
 </div>
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
